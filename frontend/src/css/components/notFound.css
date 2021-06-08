@@ -1,0 +1,18 @@
+.notFound{
+    width: 100%;
+    height: calc(100vh - 8rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notFound__container__h1{
+    font-size: 6rem;
+    color: #1a8917;
+    text-align: center;
+}
+
+.notFound__container__p{
+    margin-top: -1rem;
+    font-size: 1.6rem;
+}

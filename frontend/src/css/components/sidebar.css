@@ -1,0 +1,17 @@
+.sidebar__element:first-child{
+    border-top: 1px solid #e5e7ed !important;
+    border-top-left-radius: 0.6rem;
+    border-top-right-radius: 0.6rem;
+}
+.sidebar__element:last-child{
+    
+    border-bottom-left-radius: 0.6rem;
+    border-bottom-right-radius: 0.6rem;
+}
+
+.sidebar__element{
+    background: white;
+    padding: 1.5rem;
+    border: 1px solid #e5e7ed;
+    border-top:none ;
+}
